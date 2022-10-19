@@ -1,0 +1,183 @@
+body,
+button,
+input,
+select,
+textarea {
+    font-family: Open Sans, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.entry-title {
+    font-family: Muli, sans-serif;
+}
+
+.site-title {
+    font-family: Domine, sans-serif;
+}
+
+html,
+body {
+    font-size: 16px;
+}
+
+a,
+.site-title a:hover,
+.entry-title a:hover,
+.entry-content .has-accent-color,
+.post-navigation .nav-previous a:hover,
+.post-navigation .nav-previous a:hover span,
+.post-navigation .nav-next a:hover,
+.post-navigation .nav-next a:hover span,
+.widget a:hover,
+.block-heading a:hover,
+.widget_calendar a,
+.author-social a:hover,
+.top-menu a:hover,
+.top-menu .current_page_item a,
+.top-menu .current-menu-item a,
+.nav-previous a:hover span,
+.nav-next a:hover span,
+.more-link,
+.magazine .category-title a:hover,
+.layout9 .large-post .category a:hover,
+.layout10 .large-post .category a:hover {
+    color: #429612;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.entry-content .has-accent-background-color,
+.pagination .nav-links .current,
+.pagination .nav-links .current:hover,
+.pagination .nav-links a:hover,
+.entry-meta .category a,
+.grid-post .category,
+.featured-image .category a,
+#scroll-up,
+.slider-overlay .cat-links a,
+.slick-dots li.slick-active button:before,
+.call-action-button,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+    background-color: #429612;
+}
+
+blockquote {
+    border-left-color: #429612;
+}
+
+.sidebar .widget-title span:before,
+.magazine .magazine-posts .category-title span:before {
+    border-bottom-color: #429612;
+}
+
+.site-header .site-description {
+    color: #1c9301;
+}
+
+body,
+.entry-summary {
+    color: #232323;
+}
+
+.entry-title {
+    color: #353535;
+}
+
+.entry-content {
+    color: #1e1e1e;
+}
+
+.site-footer,
+.site-boxed .site-footer {
+    background-color: #0f0e75;
+}
+
+.site-footer .footer-copy,
+.site-footer .widget,
+.site-footer .comment-author-link {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.site-footer .footer-copy a,
+.site-footer .footer-copy a:hover,
+.site-footer .widget a,
+.site-footer .widget a:hover,
+.site-footer .comment-author-link a,
+.site-footer .comment-author-link a:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.site-footer .widget-title,
+.site-footer .widget caption {
+    color: #fff;
+}
+
+.site-footer .widget .tagcloud a {
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.footer-copy {
+    border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.main-navbar {
+    background-color: #429612;
+    position: relative;
+}
+
+.mobile-header {
+    background-color: #429612;
+}
+
+.main-menu ul {
+    background-color: #429612;
+}
+
+.main-navbar:before {
+    background-color: rgba(0, 0, 0, 0.15);
+    content: "";
+    display: block;
+    height: 4px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.main-menu > li > a,
+.home-link a {
+    line-height: 24px;
+    padding: 12px 12px 10px;
+}
+
+.main-navbar {
+    text-align: center;
+}
+
+.main-navigation,
+.main-menu,
+.main-menu > li,
+.home-link,
+.main-navbar .woo-cart-link {
+    float: none;
+    display: inline-block;
+}
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+    background-color: #222222;
+}

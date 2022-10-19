@@ -1,0 +1,28 @@
+#related_posts_thumbnails li {
+    border-right: 1px solid #dddddd;
+    background-color: #ffffff
+}
+
+#related_posts_thumbnails li:hover {
+    background-color: #9af99f;
+}
+
+.relpost_content {
+    font-size: 13px;
+    color: #333333;
+}
+
+.relpost-block-single {
+    background-color: #ffffff;
+    border-right: 1px solid #dddddd;
+    border-left: 1px solid #dddddd;
+    margin-right: -1px;
+}
+
+.relpost-block-single:hover {
+    background-color: #9af99f;
+}
+
+.site-header .site-title a {
+    color: #1c9301;
+}
